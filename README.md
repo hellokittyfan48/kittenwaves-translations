@@ -28,7 +28,7 @@ Community-submitted translation files for KittenWaves
 - Indonesian - [sl0zy](https://github.com/sl0zy)
 - Thai - [MR.Ghost-X](https://github.com/MoxxxGoo)
 - Vietnamese - [Lascreia](https://github.com/SpiritEyeCeline)
-- Japanese - [cXSHoz](https://github.com/cXSHoz)
+- Japanese - [Sub-Rise](https://github.com/Sub-Rise)
 - Italian - [espitto](https://github.com/espitto)
 - Spanish - [CharisardTT](https://github.com/MarrcosabTTS)
 - French - [jinx_x_x](https://github.com/Donaldeth)
