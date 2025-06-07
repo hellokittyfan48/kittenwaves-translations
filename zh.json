@@ -3,16 +3,17 @@
    "language_code": "zh",
    "translations": {
      "NO_FALL_TEXT": "无坠落伤害",
-     "ENABLED_TEXT": "已启用",
-     "NOCLIP_TEXT": "自由移动",
+     "ENABLED_TEXT": "启用",
+     "NOCLIP_TEXT": "穿墙模式",
      "SPEED_TEXT": "速度",
-     "GODMODE_TEXT": "无敌模式",
+     "GODMODE_TEXT": "上帝模式",
      "GODMODE_HINT_TEXT": "主要在1.0地图生效，若出现问题请关闭",
      "MULTIHIT_TEXT": "多段攻击",
      "HIT_COUNT_TEXT": "连击数",
      "NO_COOLDOWN_TEXT": "无冷却",
      "FORCE_CRITICAL_TEXT": "强制暴击",
      "INFINITE_STAMINA_TEXT": "无限耐力",
+	 "INFINITE_STAMINA_HINT_TEXT": "切换此方法需要重新加载或重启游戏\n若要为守岸人和战斗中的耐力使用增益方法，需禁用切换世界",
      "INFINITE_FORTE_TEXT": "无限特殊能量",
      "INFINITE_ULTIMATE_ENERGY_TEXT": "无限大招能量",
      "INFINITE_CONCERTO_ENERGY_TEXT": "无限协奏能量",
@@ -50,6 +51,7 @@
      "AUTO_ABSORB_TEXT": "自动吸收声骸",
      "INTERACTION_TEXT": "交互",
      "CUSTOM_INTERACTION_RANGE_TEXT": "自定义交互范围",
+	 "ECHO_TEXT": "声骸",
      "RANGE_TEXT": "范围",
      "ESP_TEXT": "透视",
      "NAME_TEXT": "名称",
@@ -88,6 +90,8 @@
      "SCALE_MULTIPLIER_TEXT": "缩放倍率",
      "FOV_CHANGER_TEXT": "视野 (FOV) 修改",
      "FOV_TEXT": "视野范围",
+	 "CPU_SAVER_TEXT": "CPU 节能模式",
+     "CPU_SAVER_HINT_TEXT": "如果你的游戏在帧率被限制时退出，帧率会一直锁定在这个限制值上，直到你重新成功登录并进入游戏后才能恢复正常，即使重启游戏客户端甚至重启设备也无法解除此锁定",
      "FPS_UNLOCKER_TEXT": "帧率解锁",
      "FPS_TEXT": "帧率",
      "SHOW_FPS_TEXT": "显示帧率",
@@ -155,6 +159,8 @@
      "NEXT_TELEPORT_TEXT": "传送至下一地点",
      "PREVIOUS_TELEPORT_TEXT": "传送至上一地点",
      "TOGGLE_UI_TEXT": "切换界面",
+	 "APPLY_PLAYER_BUFFS_TEXT": "应用玩家增益",
      "MENU_TEXT": "菜单"
+	 "METHOD_TEXT": "方式"
   }
 }
