@@ -188,6 +188,12 @@
     "SOFTLOCK_FIXES_HINT": "2.6 Fix - Click the teleport button, head back into the area, once you're stuck, press the fix button",
     "TD_CUSTOM_DAMAGE_TEXT": "TD Custom Damage",
     "DAMAGE_TEXT": "Damage",
-    "EVENTS_TEXT": "Events"
+    "EVENTS_TEXT": "Events",
+    "QUEST_TELEPORT_TEXT": "Quest Teleport",
+    "QUEST_TELEPORT_HINT_TEXT": "Mostly works on newer quests but sometimes not even there so use it if you hate yourself",
+    "NOCLIP_FORWARD_TEXT": "Noclip Forward",
+    "NOCLIP_BACK_TEXT": "Noclip Back",
+    "NOCLIP_LEFT_TEXT": "Noclip Left",
+    "NOCLIP_RIGHT_TEXT": "Noclip Right"
   }
 }
