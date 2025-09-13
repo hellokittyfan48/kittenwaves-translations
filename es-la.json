@@ -4,7 +4,7 @@
   "translations": {
     "NO_FALL_TEXT": "Sin Daño de Caida",
     "ENABLED_TEXT": "Activado",
-    "NOCLIP_TEXT": "Noclip/Sin colisión",
+    "NOCLIP_TEXT": "Noclip",
     "ANIMATION_SPEED_TEXT": "Animación de Velocidad",
     "SPEED_TEXT": "Velocidad",
     "GODMODE_TEXT": "Modo Dios",
@@ -39,7 +39,7 @@
     "COLLECTIBLE_TEXT": "Coleccionable",
     "MONSTER_TEXT": "Monstruo",
     "DISTANCE_TEXT": "Distancia",
-    "DUMB_ENEMIES_TEXT": "Enemigos Tontos",
+    "DUMB_ENEMIES_TEXT": "Enemigos tontos",
     "DUMB_ENEMIES_HINT_TEXT": "Deshabilitalo si ves que no funciona.",
     "FORCE_SKIP_BUTTON_TEXT": "Forzar botón de Skip",
     "SKIP_DIALOG_TEXT": "Skipear Dialogo",
@@ -99,7 +99,7 @@
     "UID_CHANGER_TEXT": "Cambiar UID",
     "SET_UID_TEXT": "Aplicar UID",
     "PLAYER_SCALE_TEXT": "Tamaño del Jugador",
-    "SCALE_MULTIPLIER_TEXT": "Multiplicador de Escala",
+    "SCALE_MULTIPLIER_TEXT": "Multiplicador de Tamaño",
     "FOV_CHANGER_TEXT": "Cambiar Campo de Visión",
     "FOV_TEXT": "Campo de Visión",
     "CPU_SAVER_TEXT": "Ahorro de CPU",
@@ -171,7 +171,7 @@
     "SEARCH_TEXT": "Buscar",
     "DEVELOPER_TEAM_TEXT": "Equipo de Desarrolladores",
     "TRANSLATORS_TEXT": "Traductores",
-    "FILTER_CONTRIBUTORS_TEXT": "Filtrar Contribuidores",
+    "FILTER_CONTRIBUTORS_TEXT": "Contribuidores de Filtros",
     "NEXT_TELEPORT_TEXT": "Siguiente TP",
     "PREVIOUS_TELEPORT_TEXT": "TP Anterior",
     "TOGGLE_UI_TEXT": "Alternar Interfaz",
@@ -189,5 +189,11 @@
     "TD_CUSTOM_DAMAGE_TEXT": "Simulador de Defensa Personalizar Daño",
     "DAMAGE_TEXT": "Daño",
     "EVENTS_TEXT": "Eventos"
+    "QUEST_TELEPORT_TEXT": "Teletransportar a Misión",
+    "QUEST_TELEPORT_HINT_TEXT": "Funciona mejor en misiones nuevas, pero a veces ni siquiera aparece, así que úsalo solo si te odias a ti mismo.",
+    "NOCLIP_FORWARD_TEXT": "Noclip hacia adelante",
+    "NOCLIP_BACK_TEXT": "Noclip hacia atras",
+    "NOCLIP_LEFT_TEXT": "Noclip hacia la izquierda",
+    "NOCLIP_RIGHT_TEXT": "Noclip hacia la derecha" 
   }
 }
