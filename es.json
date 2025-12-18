@@ -14,7 +14,7 @@
     "NO_COOLDOWN_TEXT": "Sin Enfriamiento",
     "FORCE_CRITICAL_TEXT": "Forzar Crítico",
     "INFINITE_STAMINA_TEXT": "Resistencia Infinita",
-    "INFINITE_STAMINA_HINT_TEXT": "Cambiar el método requiere recargar o reiniciar.\nUsa el método de buff para Shorekeeper y la resistencia en combate; desactivarlo requiere cambiar de mundo",
+    "INFINITE_STAMINA_HINT_TEXT": "Cambiar el método requiere recargar/reiniciar.\nUsa el método de buff para Shorekeeper y la resistencia en combate, desactivarlo requiere cambiar de mundo",
     "INFINITE_FORTE_TEXT": "Forte Infinito",
     "INFINITE_ULTIMATE_ENERGY_TEXT": "Energía de Definitiva Infinita",
     "INFINITE_CONCERTO_ENERGY_TEXT": "Energía de Concierto Infinita",
