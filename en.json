@@ -42,9 +42,12 @@
     "DUMB_ENEMIES_TEXT": "Dumb Enemies",
     "DUMB_ENEMIES_HINT_TEXT": "Disable if something doesn't work",
     "FORCE_SKIP_BUTTON_TEXT": "Force Skip Button",
+    "AUTO_SKIP_TEXT": "Auto Skip",
+    "FORCE_SKIP_BUTTON_HINT_TEXT": "Auto Skip doesn't talk for you",
     "SKIP_DIALOG_TEXT": "Skip Dialog",
     "SKIP_DIALOG_HINT_TEXT": "Set a hotkey in the Settings tab, hold it when in a dialog",
     "AUTO_TALK_TEXT": "Auto Talk",
+    "SPEED_UP_TEXT": "Speed Up",
     "NO_COOKING_ANIMATION_TEXT": "No Cooking Animation",
     "AUTO_MUTTERFLY_TEXT": "Auto Mutterfly",
     "AUTO_DESTROY_TEXT": "Auto Destroy",
@@ -52,6 +55,7 @@
     "TREASURE_TEXT": "Treasure",
     "TELEPORT_TEXT": "Teleport",
     "AUTO_ABSORB_TEXT": "Auto Absorb",
+    "PROXIMITY_DELAY_TEXT": "Proximity Delay",
     "NO_ANIMATION_TEXT": "No Animation",
     "INTERACTION_TEXT": "Interaction",
     "CUSTOM_INTERACTION_RANGE_TEXT": "Custom Interaction Range",
@@ -195,6 +199,7 @@
     "NOCLIP_FORWARD_TEXT": "Noclip Forward",
     "NOCLIP_BACK_TEXT": "Noclip Back",
     "NOCLIP_LEFT_TEXT": "Noclip Left",
-    "NOCLIP_RIGHT_TEXT": "Noclip Right"
+    "NOCLIP_RIGHT_TEXT": "Noclip Right",
+    "SHOW_KEYBINDS_HINTS_TEXT": "Show Keybind Hints"
   }
 }
