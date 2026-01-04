@@ -93,6 +93,7 @@
     "ADD_TO_LIST_TEXT": "Add To List",
     "HEIGHT_OFFSET_TEXT": "Height Offset",
     "HUD_TEXT": "HUD",
+    "FAST_TP_TEXT": "Fast TP",
     "AUTO_TP_TEXT": "Auto TP",
     "COOLDOWN_TEXT": "Cooldown",
     "RUN_LIST_TEXT": "Run List",
@@ -200,6 +201,7 @@
     "NOCLIP_BACK_TEXT": "Noclip Back",
     "NOCLIP_LEFT_TEXT": "Noclip Left",
     "NOCLIP_RIGHT_TEXT": "Noclip Right",
-    "SHOW_KEYBINDS_HINTS_TEXT": "Show Keybind Hints"
+    "SHOW_KEYBINDS_HINTS_TEXT": "Show Keybind Hints",
+    "RENDER_RADIUS": "Render Radius"
   }
 }
