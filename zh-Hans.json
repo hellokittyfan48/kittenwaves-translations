@@ -93,6 +93,7 @@
         "ADD_TO_LIST_TEXT": "添加到列表",
         "HEIGHT_OFFSET_TEXT": "高度偏移",
         "HUD_TEXT": "HUD",
+        "FAST_TP_TEXT": "快速传送(无加载画面)",
         "AUTO_TP_TEXT": "自动传送",
         "COOLDOWN_TEXT": "冷却时间",
         "RUN_LIST_TEXT": "执行列表",
@@ -200,6 +201,7 @@
         "NOCLIP_BACK_TEXT": "穿墙后退",
         "NOCLIP_LEFT_TEXT": "穿墙左移",
         "NOCLIP_RIGHT_TEXT": "穿墙右移",
-        "SHOW_KEYBINDS_HINTS_TEXT": "显示快捷键提示"
+        "SHOW_KEYBINDS_HINTS_TEXT": "显示快捷键提示",
+        "RENDER_RADIUS": "渲染半径"
     }
 }
