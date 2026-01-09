@@ -4,7 +4,7 @@
     "translations": {
         "NO_FALL_TEXT": "無掉落傷害",
         "ENABLED_TEXT": "啟用",
-        "NOCLIP_TEXT": "穿牆",
+        "NOCLIP_TEXT": "無碰撞",
         "ANIMATION_SPEED_TEXT": "過場動畫速度",
         "SPEED_TEXT": "速度",
         "GODMODE_TEXT": "上帝模式",
@@ -93,6 +93,7 @@
         "ADD_TO_LIST_TEXT": "新增至清單",
         "HEIGHT_OFFSET_TEXT": "高度偏移",
         "HUD_TEXT": "HUD",
+        "FAST_TP_TEXT": "快速傳送(無載入畫面)",
         "AUTO_TP_TEXT": "自動傳送",
         "COOLDOWN_TEXT": "冷卻時間",
         "RUN_LIST_TEXT": "執行清單",
@@ -196,10 +197,11 @@
         "EVENTS_TEXT": "活動",
         "QUEST_TELEPORT_TEXT": "任務傳送",
         "QUEST_TELEPORT_HINT_TEXT": "大多適用於新任務，但不保證有效，請斟酌使用",
-        "NOCLIP_FORWARD_TEXT": "穿牆前進",
-        "NOCLIP_BACK_TEXT": "穿牆後退",
-        "NOCLIP_LEFT_TEXT": "穿牆左移",
-        "NOCLIP_RIGHT_TEXT": "穿牆右移",
-        "SHOW_KEYBINDS_HINTS_TEXT": "顯示快捷鍵提示"
+        "NOCLIP_FORWARD_TEXT": "無碰撞前進",
+        "NOCLIP_BACK_TEXT": "無碰撞後退",
+        "NOCLIP_LEFT_TEXT": "無碰撞左移",
+        "NOCLIP_RIGHT_TEXT": "無碰撞右移",
+        "SHOW_KEYBINDS_HINTS_TEXT": "顯示快捷鍵提示",
+        "RENDER_RADIUS": "渲染半徑"
     }
 }
