@@ -42,9 +42,12 @@
     "DUMB_ENEMIES_TEXT": "Enemigos Tontos",
     "DUMB_ENEMIES_HINT_TEXT": "Desactívalo si algo no funciona",
     "FORCE_SKIP_BUTTON_TEXT": "Forzar Botón de Saltar",
+    "AUTO_SKIP_TEXT": "Saltar Automático",
+    "FORCE_SKIP_BUTTON_HINT_TEXT": "El Saltar Automático no habla por ti",
     "SKIP_DIALOG_TEXT": "Saltar Diálogo",
     "SKIP_DIALOG_HINT_TEXT": "Configura una tecla rápida en la pestaña Ajustes, mantenla pulsada durante un diálogo",
     "AUTO_TALK_TEXT": "Hablar Automático",
+    "SPEED_UP_TEXT": "Acelerar",
     "NO_COOKING_ANIMATION_TEXT": "Sin Animación de Cocina",
     "AUTO_MUTTERFLY_TEXT": "Mutterfly Automática",
     "AUTO_DESTROY_TEXT": "Destrucción Automática",
@@ -52,6 +55,7 @@
     "TREASURE_TEXT": "Tesoro",
     "TELEPORT_TEXT": "Teletransporte",
     "AUTO_ABSORB_TEXT": "Absorción Automática",
+    "PROXIMITY_DELAY_TEXT": "Retardo de Proximidad",
     "NO_ANIMATION_TEXT": "Sin Animación",
     "INTERACTION_TEXT": "Interacción",
     "CUSTOM_INTERACTION_RANGE_TEXT": "Rango de Interacción Personalizado",
@@ -89,6 +93,7 @@
     "ADD_TO_LIST_TEXT": "Añadir a la Lista",
     "HEIGHT_OFFSET_TEXT": "Desplazamiento de Altura",
     "HUD_TEXT": "HUD",
+    "FAST_TP_TEXT": "TP Rápido",
     "AUTO_TP_TEXT": "TP Automático",
     "COOLDOWN_TEXT": "Enfriamiento",
     "RUN_LIST_TEXT": "Ejecutar Lista",
@@ -196,5 +201,7 @@
     "NOCLIP_BACK_TEXT": "Noclip Atrás",
     "NOCLIP_LEFT_TEXT": "Noclip Izquierda",
     "NOCLIP_RIGHT_TEXT": "Noclip Derecha"
+    "SHOW_KEYBINDS_HINTS_TEXT": "Mostrar Sugerencias de Teclas",
+    "RENDER_RADIUS": "Radio de Renderizado",
   }
 }
