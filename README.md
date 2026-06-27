@@ -32,3 +32,4 @@ Community-submitted translation files for KittenWaves
 - Italian - [espitto](https://github.com/espitto)
 - Spanish - [CharisardTT](https://github.com/MarrcosabTTS)
 - French - [jinx_x_x](https://github.com/Donaldeth)
+- Estonian [beebiwc](https://github.com/beebixyw)
