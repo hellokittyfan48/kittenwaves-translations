@@ -202,6 +202,6 @@
     "NOCLIP_LEFT_TEXT": "Noclip Izquierda",
     "NOCLIP_RIGHT_TEXT": "Noclip Derecha",
     "SHOW_KEYBINDS_HINTS_TEXT": "Mostrar Sugerencias de Teclas",
-    "RENDER_RADIUS": "Radio de Renderizado",
+    "RENDER_RADIUS": "Radio de Renderizado"
   }
 }
