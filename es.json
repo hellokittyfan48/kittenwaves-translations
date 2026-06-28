@@ -200,7 +200,7 @@
     "NOCLIP_FORWARD_TEXT": "Noclip Adelante",
     "NOCLIP_BACK_TEXT": "Noclip Atrás",
     "NOCLIP_LEFT_TEXT": "Noclip Izquierda",
-    "NOCLIP_RIGHT_TEXT": "Noclip Derecha"
+    "NOCLIP_RIGHT_TEXT": "Noclip Derecha",
     "SHOW_KEYBINDS_HINTS_TEXT": "Mostrar Sugerencias de Teclas",
     "RENDER_RADIUS": "Radio de Renderizado",
   }
