@@ -81,6 +81,9 @@
     "CHANGLI_LAUREL_NYMPH_TEXT": "Changli Laurel Nymph",
     "CARLOTTA_SPLASHING_SUMMER_TEXT": "Carlotta Splashing Summer",
     "ZANI_DOWNTOWN_REPOSE_TEXT": "Zani Downtown Repose",
+    "MORNYE_PLUSH_DREAM_TEXT": "Mornye Plush Dream",
+    "LYNAE_PEPPERMINT_TEXT": "Lynae Peppermint",
+    "CHISA_PEACH_PARFAIT_TEXT": "Chisa Peach Parfait",
     "CHEST_TELEPORT_TEXT": "Chest Teleport",
     "CHEST_TELEPORT_HINT_TEXT": "Set a hotkey in the Settings tab and press it",
     "NO_CHEST_TIP_TEXT": "No Chest Found",
@@ -202,6 +205,7 @@
     "NOCLIP_LEFT_TEXT": "Noclip Left",
     "NOCLIP_RIGHT_TEXT": "Noclip Right",
     "SHOW_KEYBINDS_HINTS_TEXT": "Show Keybind Hints",
-    "RENDER_RADIUS": "Render Radius"
+    "RENDER_RADIUS": "Render Radius",
+    "RISKY_FEATURES_TEXT": "Risky features (MAY BAN)"
   }
 }
