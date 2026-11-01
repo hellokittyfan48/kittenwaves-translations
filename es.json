@@ -81,6 +81,9 @@
     "CHANGLI_LAUREL_NYMPH_TEXT": "Changli Ninfa del Laurel",
     "CARLOTTA_SPLASHING_SUMMER_TEXT": "Carlotta Verano Refrescante",
     "ZANI_DOWNTOWN_REPOSE_TEXT": "Zani Reposo Urbano",
+    "MORNYE_PLUSH_DREAM_TEXT": "Mornye Sueño de Peluche",
+    "LYNAE_PEPPERMINT_TEXT": "Lynae Menta",
+    "CHISA_PEACH_PARFAIT_TEXT": "Chisa Parfait de Melocotón",
     "CHEST_TELEPORT_TEXT": "Teletransporte a Cofre",
     "CHEST_TELEPORT_HINT_TEXT": "Configura una tecla rápida en la pestaña Ajustes y presiónala",
     "NO_CHEST_TIP_TEXT": "No se Encontró Ningún Cofre",
@@ -202,6 +205,7 @@
     "NOCLIP_LEFT_TEXT": "Noclip Izquierda",
     "NOCLIP_RIGHT_TEXT": "Noclip Derecha",
     "SHOW_KEYBINDS_HINTS_TEXT": "Mostrar Sugerencias de Teclas",
-    "RENDER_RADIUS": "Radio de Renderizado"
+    "RENDER_RADIUS": "Radio de Renderizado",
+    "RISKY_FEATURES_TEXT": "Funciones arriesgadas (PUEDE CAUSAR BAN)"
   }
 }
